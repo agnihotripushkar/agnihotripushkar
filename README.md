@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Pushkar Agnihotri 👋
 
-Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 3+ Years in AgriTech
+Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 4 Years in Mobile dev
 
 ### About Me
 
