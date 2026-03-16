@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnihotripushkar&label=Profile%20views&color=0e75b6&style=flat" alt="agnihotripushkar" /> </p>
 
-### Hi there, I'm Pushkar Agnihotri 👋
+### Hi there, I'm Pushkar Agnihotri 👋 
 
 Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 4 Years in Mobile dev
 
@@ -9,6 +9,8 @@ Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 4 Y
 I'm committed to staying up-to-date with the latest Android development trends and best practices. My focus on clean code, well-structured architecture, and thorough testing guarantees the delivery of high-quality, scalable applications.
 
 Let's connect and build something amazing together! 🚀
+
+https://www.pushkaragnihotri.me/
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BOpUshpA8ywj-Wbo9uxMZgHaHa%26pid%3DApi&f=1"/>
