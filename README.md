@@ -19,8 +19,7 @@ Let's connect and build something amazing together! 🚀
 #### 📱 Mobile Development (Expertise & Growth)
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
 <img align="left" alt="iOS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="KMP" width="30px" src="https://terrakok.github.io/kmp-web-wizard/kmp_logo.svg"/>
+<img align="left" alt="KMP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>
 <img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <br><br>
