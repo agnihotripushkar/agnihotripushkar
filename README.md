@@ -2,30 +2,42 @@
 
 ### Hi there, I'm Pushkar Agnihotri 👋 
 
-Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 4 Years in Mobile dev
+**Expert Mobile Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 📱 4+ Years in Mobile Dev**
 
 ### About Me
 
-I'm committed to staying up-to-date with the latest Android development trends and best practices. My focus on clean code, well-structured architecture, and thorough testing guarantees the delivery of high-quality, scalable applications.
+I am an **Expert in Android and iOS development**, specializing in **Kotlin Multiplatform (KMP)** for building high-performance, shared-logic applications. I am committed to staying at the forefront of mobile technology and am currently **expanding my toolkit by learning React Native**.
+
+My approach centers on clean architecture, modularization, and robust testing to deliver scalable, high-quality mobile experiences across all platforms.
 
 Let's connect and build something amazing together! 🚀
-
-https://www.pushkaragnihotri.me/
+[Portfolio](https://www.pushkaragnihotri.me/) • [LinkedIn](https://www.linkedin.com/in/pushkaragnihotri/)
+---
 
 ### Languages and Tools:
-<img align="left" alt="Android" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BOpUshpA8ywj-Wbo9uxMZgHaHa%26pid%3DApi&f=1"/>
-<img align="left" alt="Kotlin" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.P7ttmpQlFmKc-tVub77URQHaFj%26pid%3DApi&f=1"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+#### 📱 Mobile Development (Expertise & Growth)
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
+<img align="left" alt="iOS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"/>
+<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="KMP" width="30px" src="https://terrakok.github.io/kmp-web-wizard/kmp_logo.svg"/>
+<img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/>
+<img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<br><br>
+
+#### 🌐 Web & Backend
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<br><br>
+
+#### 🗄️ Database & DevOps
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
+<br><br>
